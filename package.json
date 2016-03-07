@@ -1,0 +1,23 @@
+{
+  "name": "beige",
+  "version": "0.0.1",
+  "description": "a boring project",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "^0.8.1"
+  },
+  "scripts": {
+    "test": "vows"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "longshore",
+  "license": "UNLICENSED"
+}
